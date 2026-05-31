@@ -99,4 +99,3 @@ Copier `.env.example` → `.env` et renseigner :
 - `NEO4J_PASSWORD` pour la persistance Neo4j
 - `ANTHROPIC_API_KEY` pour utiliser Claude comme LLM d'extraction
 - `OLLAMA_HOST` si Ollama tourne sur un autre hôte
->>>>>>> 5473e0f (initial commit: structure du projet)
