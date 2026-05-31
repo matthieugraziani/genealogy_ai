@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# genealogy_ai
-=======
 # Genealogy AI
 
 Reconnaissance automatique de documents d'état civil pour construire un arbre généalogique.
