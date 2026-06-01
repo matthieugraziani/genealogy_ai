@@ -4,9 +4,9 @@ Lancement : pytest tests/ -v
 """
 
 import pytest
-from genealogy_ai.nlp.entities import Person, FamilyRelation, ExtractionResult
-from genealogy_ai.nlp.extractor import RegexExtractor
-from genealogy_ai.graph.family_graph import FamilyGraph
+from nlp.entities import Person, FamilyRelation, ExtractionResult
+from nlp.extractor import RegexExtractor
+from graph.family_graph import FamilyGraph
 
 
 # ─────────────────── Fixtures ───────────────────
